@@ -1,16 +1,25 @@
-## Hi there 👋
+👩‍💻 Thais Maia
 
-<!--
-**TMaia0110/TMaia0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer focused on Backend development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical projects to strengthen my knowledge in APIs, business logic, and system structure.
+--------------------------------------------------
+🚀 Technologies
+    Python
+    Flask
+    Tkinter
+    Git & GitHub
+    Java (basic knowledge)
+--------------------------------------------------
+📌 Featured Projects
+  🔐 Password Generator (Python + Tkinter)
+  💱 Currency Converter
+  🎯 Guessing Game (Logic practice)
+--------------------------------------------------
+🎯 Currently Learning
+    REST APIs with Flask
+    Backend architecture
+    Clean code practices
+--------------------------------------------------
+📫 Contact
+LinkedIn: www.linkedin.com/in/thais-maia-tm0110
